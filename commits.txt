@@ -1,3 +1,9 @@
+commit 08c00638d453b9e08ea34c6c31d70d344145290a
+Author: David Flores <blur@MacBook-Pro-de-David.local>
+Date:   Wed Sep 20 21:43:01 2017 -0500
+
+    ejecutar codigo directamente en el metodo onclick sin hacer la logica de los metodos
+
 commit abf9fd743967206a240ac9f23e31681d2e5f3d3f
 Author: David Flores <blur@MacBook-Pro-de-David.local>
 Date:   Wed Sep 20 21:38:35 2017 -0500
