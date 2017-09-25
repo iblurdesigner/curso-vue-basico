@@ -1,17 +1,5 @@
-commit 11cd865716d41523a30fbbe191ac90010f02ffad
-Author: David Flores <blur@MacBook-Pro-de-David.local>
-Date:   Wed Sep 20 21:59:18 2017 -0500
+commit 1615aaadf25f0c3edc66aefdbef680383d47ae48
+Author: iblurdesigner <nevomen@gmail.com>
+Date:   Mon Sep 25 10:11:51 2017 -0500
 
-    tu nombre en mayusculas mediante un atributo v-model. lo que sale del formulario es convertido en mayusculas
-
-commit 08c00638d453b9e08ea34c6c31d70d344145290a
-Author: David Flores <blur@MacBook-Pro-de-David.local>
-Date:   Wed Sep 20 21:43:01 2017 -0500
-
-    ejecutar codigo directamente en el metodo onclick sin hacer la logica de los metodos
-
-commit abf9fd743967206a240ac9f23e31681d2e5f3d3f
-Author: David Flores <blur@MacBook-Pro-de-David.local>
-Date:   Wed Sep 20 21:38:35 2017 -0500
-
-    Agregamos un metodo con botones que suman o restan
+    check a los cursos favoritos
