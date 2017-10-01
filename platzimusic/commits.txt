@@ -1,3 +1,9 @@
+commit 4887fc361879a2a4583bd101c00ecd255406795f
+Author: David Flores <blur@MacBook-Pro-de-David.local>
+Date:   Sat Sep 30 23:19:00 2017 -0500
+
+    actualizando los datos de la interfaz
+
 commit 56e78cc4d987eab3e28691448ac634c74d21d876
 Author: David Flores <blur@MacBook-Pro-de-David.local>
 Date:   Sat Sep 30 23:01:58 2017 -0500
